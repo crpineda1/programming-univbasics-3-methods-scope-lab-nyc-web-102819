@@ -8,7 +8,7 @@ def toadstool
   puts status
 end
 
-def support
+def link
   tool = "It's Dangerous To Go Alone! Take This."
   puts tool
 end
