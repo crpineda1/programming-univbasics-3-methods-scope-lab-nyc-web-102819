@@ -13,7 +13,7 @@ def link
   puts tool
 end
 
-def any_phrase
+def any_phrase(phrase)
   roll = "Do A Barrel Roll!"
   puts roll
 end
