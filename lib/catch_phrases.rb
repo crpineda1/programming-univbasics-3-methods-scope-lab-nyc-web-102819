@@ -12,3 +12,8 @@ def link
   tool = "It's Dangerous To Go Alone! Take This."
   puts tool
 end
+
+def any_phrase
+  roll = "Do A Barrel Roll!"
+  puts roll
+end
