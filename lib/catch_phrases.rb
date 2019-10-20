@@ -9,6 +9,6 @@ def toadstool
 end
 
 def support
-  tool = "It's Dangerous To Go Alone! Take This!"
+  tool = "It's Dangerous To Go Alone! Take This."
   puts tool
 end
